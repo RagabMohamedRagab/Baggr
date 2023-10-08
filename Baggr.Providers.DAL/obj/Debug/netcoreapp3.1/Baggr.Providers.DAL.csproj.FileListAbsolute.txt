@@ -1,0 +1,78 @@
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\F-project\Baggr\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\Freelancer-project\after create fun\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+F:\Freelancer-project\baggr 10-7 refactor and edite on tracking\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb

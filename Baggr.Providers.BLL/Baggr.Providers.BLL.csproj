@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Baggr.Providers.Common\Baggr.Providers.Common.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.DAL\Baggr.Providers.DAL.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.DTO\Baggr.Providers.DTO.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.Gateway\Baggr.Providers.Gateway.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.IMP\Baggr.Providers.IMP.csproj" />
+  </ItemGroup>
+
+</Project>

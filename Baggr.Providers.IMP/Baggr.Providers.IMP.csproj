@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Baggr.Providers.DTO\Baggr.Providers.DTO.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.Entities\Baggr.Providers.Entities.csproj" />
+    <ProjectReference Include="..\Baggr.Providers.Gateway\Baggr.Providers.Gateway.csproj" />
+  </ItemGroup>
+
+</Project>
