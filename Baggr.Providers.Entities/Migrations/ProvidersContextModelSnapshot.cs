@@ -84,6 +84,51 @@ namespace Baggr.Providers.Entities.Migrations
                     b.ToTable("Customers");
                 });
 
+            modelBuilder.Entity("Baggr.Providers.Entities.Entities.JTExpressCity", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("Info")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<int?>("JTExpressZoneId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<int?>("ZoneId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JTExpressZoneId");
+
+                    b.ToTable("JTExpressCities");
+                });
+
+            modelBuilder.Entity("Baggr.Providers.Entities.Entities.JTExpressZone", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.Property<decimal>("PriceChangeRatio")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("JTExpressZones");
+                });
+
             modelBuilder.Entity("Baggr.Providers.Entities.Entities.Order", b =>
                 {
                     b.Property<int>("Id")
@@ -422,6 +467,13 @@ namespace Baggr.Providers.Entities.Migrations
                     b.HasIndex("ShipmentId");
 
                     b.ToTable("ShipmentProducts");
+                });
+
+            modelBuilder.Entity("Baggr.Providers.Entities.Entities.JTExpressCity", b =>
+                {
+                    b.HasOne("Baggr.Providers.Entities.Entities.JTExpressZone", "JTExpressZone")
+                        .WithMany("JTExpressCities")
+                        .HasForeignKey("JTExpressZoneId");
                 });
 
             modelBuilder.Entity("Baggr.Providers.Entities.Entities.OrderProduct", b =>

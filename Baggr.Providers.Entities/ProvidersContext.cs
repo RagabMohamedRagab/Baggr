@@ -45,5 +45,7 @@ namespace Baggr.Providers.Entities
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderProduct> OrderProducts { get; set; }
+        public DbSet<JTExpressZone> JTExpressZones { get; set; }
+        public DbSet<JTExpressCity> JTExpressCities { get; set; }
     }
 }
