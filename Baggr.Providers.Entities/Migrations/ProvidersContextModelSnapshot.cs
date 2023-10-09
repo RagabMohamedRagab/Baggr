@@ -99,6 +99,9 @@ namespace Baggr.Providers.Entities.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
+                    b.Property<int?>("ZoneId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("JTExpressZoneId");
@@ -468,7 +471,7 @@ namespace Baggr.Providers.Entities.Migrations
 
             modelBuilder.Entity("Baggr.Providers.Entities.Entities.JTExpressCity", b =>
                 {
-                    b.HasOne("Baggr.Providers.Entities.Entities.JTExpressZone", null)
+                    b.HasOne("Baggr.Providers.Entities.Entities.JTExpressZone", "JTExpressZone")
                         .WithMany("JTExpressCities")
                         .HasForeignKey("JTExpressZoneId");
                 });

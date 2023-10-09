@@ -4,6 +4,7 @@ using Baggr.Providers.DAL;
 using Baggr.Providers.DTO;
 using Baggr.Providers.DTO.DTOs;
 using Baggr.Providers.Entities.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -21,15 +22,56 @@ namespace Baggr.Providers.BLL.Manager {
             _jtexpressZone = jtexpressZone;
             _mapper = mapper;
         }
-
-        public Task<ResultModel<JTExpressCityDTO>> CreateCities(JTExpressCityDTO tExpressCityDTO)
+        #region City
+        public async Task<ResultModel<JTExpressCity>> CreateCity(JTExpressCityDTO tExpressCityDTO)
         {
-            throw new NotImplementedException();
+            var city = _mapper.Map<JTExpressCity>(tExpressCityDTO);
+            _jtexpresscity.Add(city);
+            return new ResultModel<JTExpressCity>(true, StatusMessage.Ok, city);
         }
 
-        public Task<ResultModel<JTExpressCitiesPageDTO>> GetCities(int pageSize, int pageNumber)
+      
+
+        public async Task<ResultModel<JTExpressCitiesPageDTO>> GetCities(int pageSize, int pageNumber)
         {
-            throw new NotImplementedException();
+            var JTcities =await _jtexpresscity.GetAll().ToListAsync();
+            var TotalCount = JTcities.Count;
+
+            int PagesCount = (int)Math.Ceiling(TotalCount / ((double)pageSize == 0 ? 1 : (double)pageSize));
+
+            JTExpressCitiesPageDTO citiesPageDTO = new JTExpressCitiesPageDTO()
+            {
+                PagesCount = PagesCount,
+                TotalCount = TotalCount,
+                CityDTOs = _mapper.Map<IList<JTExpressCityDTO>>(JTcities)
+            };
+           return new ResultModel<JTExpressCitiesPageDTO>(true, StatusMessage.Ok, citiesPageDTO);
         }
+        #endregion
+
+        #region Zone
+        public async Task<ResultModel<JTExpressZone>> CreateZone(JTExpressZoneDTO tExpressZoneDTO)
+        {
+            var zone = _mapper.Map<JTExpressZone>(tExpressZoneDTO);
+            _jtexpressZone.Add(zone);
+            return new ResultModel<JTExpressZone>(true, StatusMessage.Ok, zone);
+        }
+
+        public async Task<ResultModel<JTExpressZonesPageDTO>> GetZones(int pageSize, int pageNumber)
+        {
+            var JTZones = await  _jtexpressZone.GetAll().ToListAsync();
+            var TotalCount = JTZones.Count;
+
+            int PagesCount = (int)Math.Ceiling(TotalCount / ((double)pageSize == 0 ? 1 : (double)pageSize));
+
+            JTExpressZonesPageDTO ZonesPageDTO = new JTExpressZonesPageDTO()
+            {
+                PagesCount = PagesCount,
+                TotalCount = TotalCount,
+                CityDTOs = _mapper.Map<IList<JTExpressZoneDTO>>(JTZones)
+            };
+            return new ResultModel<JTExpressZonesPageDTO>(true, StatusMessage.Ok,ZonesPageDTO);
+        }
+        #endregion
     }
 }

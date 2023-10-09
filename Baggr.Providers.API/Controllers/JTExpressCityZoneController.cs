@@ -15,16 +15,34 @@ namespace Baggr.Providers.API.Controllers {
             _jtExpressFactory = jtExpressFactory;
         }
 
-        [HttpGet]
+        [HttpPost]
         public async Task<IActionResult> AddCity([FromForm] JTExpressCityDTO model)
         {
-            return Ok();
+            var result=await _jtExpressFactory.CreateCity(model);
+            return Ok(result);
 
         }
         [HttpGet]
-        public IActionResult GetCities(int pageSize, int pageNumber)
+        public async Task<IActionResult> GetCities(int pageSize, int pageNumber)
         {
-            return Ok();
+            var result=await _jtExpressFactory.GetCities(pageSize, pageNumber);
+            return Ok(result);
         }
+        [HttpPost]
+        public async Task<IActionResult> AddZone([FromForm] JTExpressZoneDTO model)
+        {
+            var result = await _jtExpressFactory.CreateZone(model);
+            return Ok(result);
+
+        }
+        [HttpGet]
+        public async Task<IActionResult> GetZones(int pageSize, int pageNumber)
+        {
+            var result = await _jtExpressFactory.GetZones(pageSize, pageNumber);
+            return Ok(result);
+        }
+
+
+
     }
 }

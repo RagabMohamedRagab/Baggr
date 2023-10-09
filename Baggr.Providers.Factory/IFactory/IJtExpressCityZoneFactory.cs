@@ -9,5 +9,7 @@ namespace Baggr.Providers.Factory.IFactory {
     public interface IJtExpressCityZoneFactory {
         Task<ResultModel<JTExpressCityDTO>> CreateCity(JTExpressCityDTO tExpressCityDTO);
         Task<ResultModel<JTExpressCitiesPageDTO>> GetCities( int pageSize, int pageNumber);
+        Task<ResultModel<JTExpressZoneDTO>> CreateZone(JTExpressZoneDTO tExpressZoneDTO);
+        Task<ResultModel<JTExpressZonesPageDTO>> GetZones(int pageSize, int pageNumber);
     }
 }

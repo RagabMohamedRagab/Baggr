@@ -30,7 +30,7 @@ namespace Baggr.Providers.Entities.Migrations
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     Name = table.Column<string>(nullable: true),
                     Info = table.Column<string>(nullable: true),
-                    ZoneId = table.Column<int>(nullable: true),
+                
                     JTExpressZoneId = table.Column<int>(nullable: true)
                 },
                 constraints: table =>

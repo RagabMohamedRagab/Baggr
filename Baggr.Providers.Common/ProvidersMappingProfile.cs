@@ -167,6 +167,8 @@ namespace Baggr.Providers.Common
             CreateMap<Order, OrderDTO>();
             CreateMap<OrderProductDTO, OrderProduct>();
             CreateMap<OrderProduct, OrderProductDTO>();
+            CreateMap<JTExpressCity, JTExpressCityDTO>().ForPath(des => des.JTExpressZoneId, src => src.MapFrom(src => src.JTExpressZoneId)).ReverseMap();
+            CreateMap<JTExpressZone, JTExpressZoneDTO>().ReverseMap();  
 
 
             /////////////////////////////////// J&TExpress/////////////////////////////
@@ -204,9 +206,7 @@ namespace Baggr.Providers.Common
                 .ForMember(dest => dest.AWB, src => src.MapFrom(x => x.Key))
                 .ForMember(dest => dest.LastStatus, src => src.MapFrom(x => x.Value.FirstOrDefault().UpdateDescription));
             CreateMap<JTExpressShipmentLogs, ShipmentTrackingLogDto>()
-                 .ForMember(dest => dest.StatusEnName, src => src.MapFrom(x => x.UpdateDescription))
-
-                 ;
+                 .ForMember(dest => dest.StatusEnName, src => src.MapFrom(x => x.UpdateDescription));
 
 
 
