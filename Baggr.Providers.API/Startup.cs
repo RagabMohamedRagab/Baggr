@@ -97,6 +97,7 @@ namespace Baggr.Providers.API
             services.AddScoped<IProductManager, ProductManager>();
             services.AddScoped<ICustomerManager, CustomerManager>();
             services.AddScoped<IOrderManager, OrderManager>();
+            services.AddScoped< IJTExpressCityZonesManager, JTExpressCityZonesManager>();
             /////////Factory/////////////////////
             services.AddScoped<ICityFactory, CityFactory>();
             services.AddScoped<IShipmentFactory, ShipmentFactory>();
@@ -106,6 +107,7 @@ namespace Baggr.Providers.API
             services.AddScoped<IProductFactory, ProductFactory>();
             services.AddScoped<ICustomerFactory, CustomerFactory>();
             services.AddScoped<IOrderFactory, OrderFactory>();
+            services.AddScoped<IJtExpressCityZoneFactory, JTExpressCityZoneFactory>();
             ////////GateWay///////////////////////
             services.AddScoped<IAramexAPI, AramexAPI>();
             services.AddScoped<IFedexAPI, FedexAPI>();
