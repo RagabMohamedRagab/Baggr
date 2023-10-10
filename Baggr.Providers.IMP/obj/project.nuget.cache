@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qcih2EHZa9+jVO459PffyH7ntTEHKplUALB3z2DSLKvWLd7dnZOj55a3ymcmLYC47FDAhMvJxIW++ZLrOodwNQ==",
+  "dgSpecHash": "MWWVKCd7lnHZguvoTZCKq9G4ZZweUEnCmYBmcoR6hPe9c6VoXwSTj65unHiM/Na3OAA1o/+8fZr7crMA5LpMiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

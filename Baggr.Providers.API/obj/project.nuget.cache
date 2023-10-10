@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rtj/S5npJLlLxkWneSjj2kxbAtSW++e57sUg+UslqfoTeSuQz8dsD9CrCoxQvfC70zwbTVPJx8zKzjqDR1/1iw==",
+  "dgSpecHash": "3Wq282iKwbVRbNCaVMRcIfJndwKSXdOFfjt4FWI+oim26GYLycmf6T57yP0FIpJzOHfiuxY3X5E08DKplgiTbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

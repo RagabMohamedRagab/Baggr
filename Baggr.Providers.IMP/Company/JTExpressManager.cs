@@ -2,6 +2,7 @@
 using Baggr.Providers.DTO.AramexModels;
 using Baggr.Providers.DTO.DTOs;
 using Baggr.Providers.DTO.J_TExpressModels;
+using Baggr.Providers.Entities.Entities;
 using Baggr.Providers.Gateway.APIs;
 using Baggr.Providers.Gateway.IAPIs;
 using Baggr.Providers.IMP.ICompany;
@@ -21,7 +22,35 @@ namespace Baggr.Providers.IMP.Company {
             _mapper = mapper;
             _jTExpressAPI = jTExpressAPI;
         }
+        public async Task<GetQuoteDTO> GetQuote(IEnumerable<JTExpressCity> jTExpressCities, IEnumerable<JTExpressZone> jTExpressZones, IEnumerable<Baggr.Providers.Entities.Entities.Provider> providers, string fromCity, string toCity, double weight)
+        {
+            if (jTExpressCities != null && jTExpressZones != null && providers != null)
+            {
+                var JtExpressProvider = providers.Where(p => p.Key == "jtexpresskey").FirstOrDefault();
 
+                var fromTo = jTExpressCities.Where(city => city.Name == fromCity || city.Name == toCity).Select(b=>b.JTExpressZoneId).ToList();
+
+                // Get Maxmuim between Two Zones..
+
+                var jtZones = jTExpressZones.Where(zon => zon.Id == fromTo[0] || zon.Id == fromTo[1]);
+
+                double price = 0;
+                double PriceChangeRatio = 0;
+                foreach (var item in jtZones)
+                {
+                    if (item.Price > price)
+                    {
+                        price = item.Price;
+                        PriceChangeRatio = item.PriceChangeRatio;
+                    }
+                }
+
+                var TotalPrice = ((weight - 1) * PriceChangeRatio) + price;
+               return new GetQuoteDTO(JtExpressProvider.ProviderName, JtExpressProvider.ProviderLogo, Math.Round(TotalPrice, 2), JtExpressProvider.Key, _mapper.Map<Baggr.Providers.Entities.Entities.Provider, ProviderDTO>(JtExpressProvider));
+            }
+
+            return null;
+        }
         // Provider Key is jtexpresskey
         public async Task<IEnumerable<ShipmentCreationResponseDTO>> CreateOrders(IEnumerable<ShipmentDTO> orderDTOs, Entities.Entities.Provider JTExpressProvider)
         {

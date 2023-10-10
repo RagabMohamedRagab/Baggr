@@ -28,21 +28,6 @@ D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Common\obj\Debug\netcoreapp
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CopyComplete
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.deps.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.AssemblyInfoInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.AssemblyInfo.cs
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CopyComplete
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
 F:\Freelancer-project\after create fun\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.deps.json
 F:\Freelancer-project\after create fun\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
 F:\Freelancer-project\after create fun\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
@@ -88,3 +73,18 @@ C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Common\obj
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CopyComplete
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.deps.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.AssemblyInfo.cs
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.csproj.CopyComplete
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Common\obj\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb

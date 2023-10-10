@@ -30,9 +30,11 @@ namespace Baggr.Providers.BLL.Manager
         private readonly IProvidersRepository<Shipment> _providersRepository;
         private readonly IProductManager _productManager;
         private readonly ICustomerManager _customerManager;
+        private readonly IProvidersRepository<JTExpressCity> _jtexpresscity;
+        private readonly IProvidersRepository<JTExpressZone> _jtexpressZone;
         public ShipmentManager(IProviderManager providerManager, IAramexManager aramexManager,
             IFedexManager fedexManager, IMylerzManager mylerzManager, IMapper mapper,
-            IProvidersRepository<Shipment> providersRepository, IProductManager productManager, ICustomerManager customerManager, IJTExpressManager jTExpressManger)
+            IProvidersRepository<Shipment> providersRepository, IProductManager productManager, ICustomerManager customerManager, IJTExpressManager jTExpressManger, IProvidersRepository<JTExpressCity> jtexpresscity, IProvidersRepository<JTExpressZone> jtexpressZone)
         {
             _providerManager = providerManager;
             _aramexManager = aramexManager;
@@ -43,6 +45,8 @@ namespace Baggr.Providers.BLL.Manager
             _productManager = productManager;
             _customerManager = customerManager;
             _jTExpressManger = jTExpressManger;
+            _jtexpresscity = jtexpresscity;
+            _jtexpressZone = jtexpressZone;
         }
         public async Task<ResultModel<IEnumerable<GetQuoteDTO>>> GetQuote(string fromCity, string toCity, double weight)
         {
@@ -57,18 +61,15 @@ namespace Baggr.Providers.BLL.Manager
 
             var mylerzQuote = await _mylerzManager.GetQuote(providers.Result, fromCity, toCity, weight);
             if (mylerzQuote != null) result.Add(mylerzQuote);
+            var jtexpressCities = _jtexpresscity.GetAll().Include(b=>b.JTExpressZone);
+            var jtexpressZones = _jtexpressZone.GetAll().Include(b=>b.JTExpressCities);
+            var JtExpressQuote = await _jTExpressManger.GetQuote(jtexpressCities, jtexpressZones, providers.Result, fromCity, toCity, weight);
+            if (JtExpressQuote != null) result.Add(JtExpressQuote);
 
             return new ResultModel<IEnumerable<GetQuoteDTO>>(true, StatusMessage.Ok, result);
 
         }
 
-        /*
-         *   In MySql Must Insert Manually 
-         *    
-         *    Id      Key                 ProvideName     ProvideLogo     ProviderAnalyticsColour
-         *    4      jtexpresskey      JtExpress           " "                  "orange"
-         * 
-         */
         public async Task<ResultModel<IEnumerable<ShipmentCreationResponseDTO>>> CreateShipments(ShipmentBulkDTO shipmentBulkDTO, Provider provider)
         {
             IEnumerable<ShipmentCreationResponseDTO> result = null;

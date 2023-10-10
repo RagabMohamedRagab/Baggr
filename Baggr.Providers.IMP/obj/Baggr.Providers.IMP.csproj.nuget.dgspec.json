@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj": {}
+    "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
+    "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj",
         "projectName": "Baggr.Providers.DTO",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
+    "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
         "projectName": "Baggr.Providers.Entities",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj": {
+    "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
         "projectName": "Baggr.Providers.Gateway",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +173,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
+              "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj": {
+    "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
         "projectName": "Baggr.Providers.IMP",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\Baggr.Providers.IMP.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.IMP\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.IMP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,14 +251,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
+              "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
               },
-              "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
+              "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
               },
-              "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj": {
-                "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj"
+              "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj": {
+                "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj"
               }
             }
           }

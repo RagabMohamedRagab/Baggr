@@ -24,19 +24,6 @@ D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
 F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
 F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
 F:\Freelancer-project\after create fun\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
@@ -76,3 +63,16 @@ C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\De
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.deps.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.AssemblyInfo.cs
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.DAL\obj\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb

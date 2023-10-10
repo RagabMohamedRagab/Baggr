@@ -24,19 +24,6 @@ D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Entities\obj\Debug\netcorea
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.genruntimeconfig.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.deps.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.dev.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.AssemblyInfoInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.AssemblyInfo.cs
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.genruntimeconfig.cache
 F:\Freelancer-project\after create fun\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.deps.json
 F:\Freelancer-project\after create fun\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.json
 F:\Freelancer-project\after create fun\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.dev.json
@@ -76,3 +63,16 @@ C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Entities\o
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.genruntimeconfig.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.deps.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.runtimeconfig.dev.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.AssemblyInfo.cs
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.Entities\obj\Debug\netcoreapp3.1\Baggr.Providers.Entities.genruntimeconfig.cache

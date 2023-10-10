@@ -99,9 +99,6 @@ namespace Baggr.Providers.Entities.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<int?>("ZoneId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.HasIndex("JTExpressZoneId");
@@ -118,11 +115,11 @@ namespace Baggr.Providers.Entities.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<decimal>("Price")
-                        .HasColumnType("decimal(65,30)");
+                    b.Property<double>("Price")
+                        .HasColumnType("double");
 
-                    b.Property<decimal>("PriceChangeRatio")
-                        .HasColumnType("decimal(65,30)");
+                    b.Property<double>("PriceChangeRatio")
+                        .HasColumnType("double");
 
                     b.HasKey("Id");
 

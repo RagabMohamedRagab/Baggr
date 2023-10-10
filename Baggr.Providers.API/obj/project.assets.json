@@ -6119,11 +6119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
       "projectName": "Baggr.Providers.API",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.API\\Baggr.Providers.API.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.API\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6146,17 +6146,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj"
             },
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DAL\\Baggr.Providers.DAL.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DAL\\Baggr.Providers.DAL.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DAL\\Baggr.Providers.DAL.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DAL\\Baggr.Providers.DAL.csproj"
             },
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
             },
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Factory\\Baggr.Providers.Factory.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Factory\\Baggr.Providers.Factory.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Factory\\Baggr.Providers.Factory.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Factory\\Baggr.Providers.Factory.csproj"
             }
           }
         }

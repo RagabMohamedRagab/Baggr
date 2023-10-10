@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oieN4laYjyKNIg3kSrEXa87VrvGniqqKGK7s93XRtbaTSpVThdRzEUW6NZjv1IZ8HQ7WZcCHHQhkjNukrsG5/g==",
+  "dgSpecHash": "9OPZtyGwn27zvYS2ffactbq6dKYlAKq2jOJ9N7UuodZ/Mwq+/ZKqtd7h7Oj89LqCxVo0mpIB1WSDw7c2F0krKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Gateway\\Baggr.Providers.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

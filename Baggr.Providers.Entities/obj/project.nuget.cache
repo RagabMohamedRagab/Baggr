@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "24y6Ua+1pmYPalfLrwn1o07y8Qm/+Nl8btrm9E9L2igpT3YhFXVfKwNKEiSJ6iAGwOIlI6dPNja82Ixd23TzKw==",
+  "dgSpecHash": "Ip19Z/jviFl21qmbDMCpeK5R+tMXdjBZF/boe8lIJr/GVxgomDjA3Ks2FcfkJyqvbRd0+VoR0yuMV7xx6/GtRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

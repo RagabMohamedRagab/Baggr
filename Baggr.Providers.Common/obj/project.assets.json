@@ -5593,11 +5593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj",
       "projectName": "Baggr.Providers.Common",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Common\\Baggr.Providers.Common.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Common\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5619,11 +5619,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.DTO\\Baggr.Providers.DTO.csproj"
             },
-            "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\Baggr-pro-master\\Baggr-pro-master\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
+            "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\J&TExpress\\Baggr.Providers.Entities\\Baggr.Providers.Entities.csproj"
             }
           }
         }

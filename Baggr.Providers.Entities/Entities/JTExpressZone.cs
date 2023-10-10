@@ -9,9 +9,9 @@ namespace Baggr.Providers.Entities.Entities {
         public int Id { get; set; }
 
         public string Name { get; set; }   
-        public decimal Price { get; set; }
+        public double Price { get; set; }
 
-        public decimal PriceChangeRatio { get; set; }
+        public double PriceChangeRatio { get; set; }
 
         public virtual ICollection<JTExpressCity> JTExpressCities { get; set; }
     }

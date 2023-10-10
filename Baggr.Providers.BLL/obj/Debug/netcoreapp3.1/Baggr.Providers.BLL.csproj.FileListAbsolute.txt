@@ -44,29 +44,6 @@ D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CopyComplete
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
 D:\Dowload\MySQL\Providers\Providers\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.deps.json
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Gateway.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.IMP.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Gateway.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.IMP.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.AssemblyInfoInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.AssemblyInfo.cs
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CopyComplete
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
-C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
 F:\Freelancer-project\after create fun\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.deps.json
 F:\Freelancer-project\after create fun\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
 F:\Freelancer-project\after create fun\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
@@ -136,3 +113,26 @@ C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.BLL\obj\De
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CopyComplete
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
 C:\Users\pc\Desktop\Baggr-pro-master\Baggr-pro-master\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.deps.json
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Gateway.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.IMP.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Common.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DAL.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.DTO.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Gateway.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.IMP.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\bin\Debug\netcoreapp3.1\Baggr.Providers.Entities.pdb
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.AssemblyInfo.cs
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.csproj.CopyComplete
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.dll
+C:\Users\pc\Desktop\J&TExpress\Baggr.Providers.BLL\obj\Debug\netcoreapp3.1\Baggr.Providers.BLL.pdb
