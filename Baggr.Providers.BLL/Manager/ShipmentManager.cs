@@ -61,6 +61,7 @@ namespace Baggr.Providers.BLL.Manager
 
             var mylerzQuote = await _mylerzManager.GetQuote(providers.Result, fromCity, toCity, weight);
             if (mylerzQuote != null) result.Add(mylerzQuote);
+
             var jtexpressCities = _jtexpresscity.GetAll().Include(b=>b.JTExpressZone);
             var jtexpressZones = _jtexpressZone.GetAll().Include(b=>b.JTExpressCities);
             var JtExpressQuote = await _jTExpressManger.GetQuote(jtexpressCities, jtexpressZones, providers.Result, fromCity, toCity, weight);
